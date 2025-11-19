@@ -11,7 +11,6 @@ import java.time.LocalDate;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-//f
 @Table(name = "tbl_todo")
 public class Todo {
 
