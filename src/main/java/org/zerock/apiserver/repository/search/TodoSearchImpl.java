@@ -9,7 +9,7 @@ import org.springframework.data.domain.Sort;
 import org.springframework.data.jpa.repository.support.QuerydslRepositorySupport;
 import org.zerock.apiserver.domain.QTodo;
 import org.zerock.apiserver.domain.Todo;
-
+//2
 @Log4j2
 public class TodoSearchImpl extends QuerydslRepositorySupport implements TodoSearch{
 
